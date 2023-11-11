@@ -1,0 +1,21 @@
+body{
+    border-bottom: 3px solid red;
+}
+
+.t{
+    border-collapse: collapse; 
+    margin-top: 20px; 
+  }
+.t th, .t td{
+    border: 1px solid black;
+    padding-right: 100px; 
+  }
+
+.bt{
+    margin-left: 500px;
+    margin-top: 20px;
+    padding-right: 300px;
+    padding-left:300px; 
+    background-color: darkolivegreen;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
